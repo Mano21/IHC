@@ -21,3 +21,6 @@ usabilidade proposta na Norma ISO 9241.
 Pode-se concluir que os modelos de qualidade são ortogonais e que a usabilidade e utilidade são idéias diferentes, 
 complementares e necessárias.
 
+
+![Descrição da imagem](http://www.labiutil.inf.ufsc.br/hiperdocumento/esquema_diferencas_correto.jpg)
+
