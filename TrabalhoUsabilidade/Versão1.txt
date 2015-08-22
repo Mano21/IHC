@@ -1,3 +1,7 @@
+https://irlabr.wordpress.com/apostila-de-ihc/parte-1-ihc-na-pratica/6-usabilidade-e-suas-metas/
+
+http://www.labiutil.inf.ufsc.br/hiperdocumento/usabilidade.html
+
 ATIVIDADE 3: Usabilidade 
 
 ESPECIFICAÇÃO: Analisar o conceito de usabilidade sobre a ótica dos 
@@ -22,5 +26,58 @@ Pode-se concluir que os modelos de qualidade são ortogonais e que a usabilidade
 complementares e necessárias.
 
 
-![Descrição da imagem](http://www.labiutil.inf.ufsc.br/hiperdocumento/esquema_diferencas_correto.jpg)
+Segundo Nielsen (1993), usabilidade é um conceito que busca definir as características de 
+utilização, do desempenho e da satisfação dos usuários na interação com as interfaces 
+computacionais, na perspectiva de um bom sistema interativo, e se refere a cinco componentes: 
 
+1. Aprendizado:O sistema deve ser fácil de aprender. Os utilizadores inexperientes devem ser capazes de completar tarefas básicas num curto período de tempo, com um mínimo de formação. 
+
+2. Eficiência:Os usuários experientes devem ser capazes de alcançar um estado constante de produtividade. 
+
+3. Memorável:O sistema deve ser fácil de lembrar. Os usuários podem retornar a ele depois de uma ausência e completar tarefas sem re-treino. 
+
+4. Baixo número de erros:Usuários devem enfrentar poucos erros durante o uso do sistema, e recuperarem-se rapidamente de erros. 
+
+5. Satisfação dos usuários: O sistema deve ser agradável de usar. 
+
+
+A usabilidade não é uma propriedade singular ou unidimensional de uma interface do sistema tecnológico de informação.
+
+
+USABILIDADE E ISO 9126 (NBR13596)
+
+A primeira norma ISO (International Standard Organization) a utilizar e definir o termo usabilidade foi a ISO9126 (traduzida para o português na NBR13596). O foco desta norma é a qualidade de software definida por 6 características:
+
+    Funcionalidade;
+    Confiabilidade;
+    Usabilidade;
+    Eficiência;
+    Manutenibilidade; e
+    Portabilidade.
+
+Cada uma das características é apoiada por um conjunto de sub-características de qualidade entendidas como qualidade interna do software que podem ser medidas.
+
+A usabilidade, por exemplo, entendida como um conjunto de atributos de software  que relaciona-se com o esforço necessário para seu uso por determinado conjunto de usuários, é definido pelos seguintes aspectos:
+
+    Inteligibilidade: atributos do software que evidenciam o esforço do usuário para reconhecer o conceito lógico e sua aplicabilidade;
+    Apreensibilidade: Conhecido por Learnability. Nesta apostila está sendo tratado pelo termo aprendizado – uma  das metas de usabilidade. É o atributos do software que evidencia o esforço do usuário para aprender funcionalidades, controles de operação, compreender foratos de entrada e saída, etc;
+    Operacionalidade: atributos do software que evidenciam o esforço do usuário para sua operação e controle de sua operação;
+    Atratividade: evidencia a satisfação subjetiva do usuário durante o uso; e
+    Conformidade: atributos do software que fazem com que o software esteja de acordo com as normas, convenções ou regulamentações previstas em leis e descrições similares, relacionadas à aplicação. Também significa que está em harmonia com padrões ou convenções relacionados à portabilidade.
+
+
+
+
+Preece   et   al(2005), distingue a experiência   do   usuário   da usabilidade  considerando  a  primeira  um  campo  maior  que  tem  por  objetivo garantir   que   os   sistemas   sejam:   “satisfatórios,   agradáveis,   divertidos, 
+interessantes,  úteis,  motivadores,  esteticamente  apreciáveis,  incentivadores  de criatividade, compensadores, emocionalmente adequados” 
+(PREECE, 2005, p. 40)
+Para estes  autores a experiência  do  usuário  explica  o  uso  de  sistemas  do ponto 
+de vista subjetivo em complemento à usabilidade que descreve o uso de maneira 
+objetiva.
+Estes autores chamam atenção para a dependência das metas de usabilidade  em  função  das  metas  de  experiência  do  usuário.  No  contexto  de 
+jogos,  por  exemplo,  o  usuário  espera  ser  desafiado  e  as  tarefas  não  devem  ser 
+fáceis  de  execução.  Para  o  designer,  é  importante  equilibraras  metas  de 
+usabilidade  e  de  experiência  do  usuário.  Nesta  perspectiva,  apesar  da  lista  de 
+categorias qualificadoras identificadas pelos autores, a experiência do usuário de 
+um  objeto  pode  ser  almejada  de forma  diferente de  outro  produto,  as  metas  são 
+estabelecidas de acordo com uma situação. 
