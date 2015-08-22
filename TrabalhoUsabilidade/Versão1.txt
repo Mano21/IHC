@@ -1,0 +1,23 @@
+ATIVIDADE 3: Usabilidade 
+
+ESPECIFICAÇÃO: Analisar o conceito de usabilidade sobre a ótica dos 
+diferentes autores, tais como: Nielsen (1993), Preece et al (2005, 2011), 
+Norma ISO 9241-11, etc.. Pelo menos a visão de 3 autores, sendo que aceitarei 
+somente 1 desses (pois irei apresentá-los)!
+
+Explique cada meta de usabilidade segundo cada autor/instituição e dê exemplos 
+de como utilizar ou de como fazer uma pergunta para cada meta. Após, faça uma análise 
+comparativa entre os 3 autores.
+
+*Irei explicar um pouco mais na aula presencial, porém o aluno é incentivado a 
+começar desde já o trabalho, buscando os livros da biblioteca.
+
+Existem outros conceitos de usabilidade propostos por outros autores e outras normas:
+
+A visão do Nielsen (1993) é de que usabilidade e utilidade se completam para compor a noção de qualidade em uso.
+Norma ISO 9126 apresenta a idéia de um modelo de qualidade interna e externa, sendo que a usabilidade está inserida 
+dentro das qualidades internas. A qualidade em uso é uma qualidade externa e é muito semelhante com a definição de 
+usabilidade proposta na Norma ISO 9241.
+Pode-se concluir que os modelos de qualidade são ortogonais e que a usabilidade e utilidade são idéias diferentes, 
+complementares e necessárias.
+
