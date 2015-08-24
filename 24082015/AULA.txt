@@ -18,3 +18,26 @@ Construção vs Uso
 
 "de fora para dentro": usuários -> dados -> lógica -> interface
 
+
+trabalhar em equipes multidisciplinares
+ - muitas pessoas com diferentes formações envolvidas
+ 
+ - diferentes perspectivas e modos de ver e falar sobre as coisas
+
+
+
+Interação:é um processo de 
+ - sequencia de estimulos e respostas
+ - operação de máquina
+ 
+ 
+ Norman = interpreta a interação como um processo através do qual o usuário formula uma intenção, planeja suas ações, atua sobre a interface, percebe e interpreta a resposta do sistemae avalia se seu objetivo foi alcançado
+ 
+ Souza = interpreta a interação com um processo de comunicação entre pessoas.
+ 
+ sistemas interativos são ferramentas
+ 
+ usuário quer realizar uma tarefa, mas precisa da interface e o núcleo funcional e assim realizar a tarefa
+ 
+ 
+
