@@ -1,0 +1,20 @@
+De onde vem o nome Interação Humano Computador
+
+De onde vem o nome:
+do termo inglês "Human-Computer Interaction"
+
+o que quer dizer:
+literalmente: processo pelo qual 'serer humanos' interagem com computadores
+
+tecnicamente: Modos,meios e processos envolvidos no uso de sistemas computacionais em:
+  - computadores,propriamente ditos
+  - outros artefatos(eletro eletro-eletrônicos,automóveis,prédios,roupas,etc.)
+  
+
+
+Construção vs Uso
+
+"de dentro para fora": interface -> lógica -> dados -> usuários
+
+"de fora para dentro": usuários -> dados -> lógica -> interface
+
