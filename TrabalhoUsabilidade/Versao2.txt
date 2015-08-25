@@ -1,0 +1,63 @@
+Explique cada meta de usabilidade segundo cada autor/instituição e dê exemplos 
+de como utilizar ou de como fazer uma pergunta para cada meta. Após, faça uma análise 
+comparativa entre os 3 autores.
+
+
+Segundo Nielsen (1993) usabilidade é um conceito que busca definir as características de 
+utilização, do desempenho e da satisfação dos usuários na interação com as interfaces 
+computacionais, na perspectiva de um bom sistema interativo, e se refere a cinco componentes: 
+
+Aprendizado: O sistema em questao deve ser de facil aprendizado. Utilizadores e/ou usuarios inexperientes
+devem se esforçar ou ser capazes de realizar tarefas basicas em um curto espaço de tempo e com minimo de informaçao possivel.
+
+Eficiencia: Usuarios mais avançados devem se esforçar ou ser capazes de alcançar um estado avançado de produtividade
+
+Memoravel: Usuarios podem ter acesso ao o sistema, mesmo depois de um grande periodo sem uso e ainda completar as tarefas,
+sem necessidade de realziar treinos novamente e tambem deve ser de facil recordaçao.
+
+Baixo numero de Erros: Todos os usuarios precisam enfrentar a quantidade menos possivel de erros durante o uso do sistema e 
+poder ter recuperaçao de forma rapida do mesmo.
+
+Satisfaçao dos usuarios: O sistema precisar agradar a todo e qualquer usuario.
+
+
+Norma ISO 9241
+A parte 11 (1998) desta norma redefine usabilidade como "a capacidade de um produto ser usado por usuários 
+específicos para atingir objetivos específicos com eficácia, eficiência e satisfação em um contexto específico de 
+uso.“
+
+para melhor compreensao foi esclarecido outros conceitos:
+
+Usuario: Pessoa que ira interagir com todo o sistema/produto
+
+Constexto de uso: Se baseia nos usuarios, nas tarefas e equipamentos(Hardware,Software,
+materiais), ambiente fisico e social em que o produto sera usado.
+
+Eficacia: Parte para precisao e completeza ao qual os usuarios atingem os objetivos de alguma forma
+especificos, acessando ou buscando a informaçao mais correta ou gerando os resultados esperado
+
+Eficiencia:Parte de precisao e completeza com parte dos usuarios que atingem seus objetivos, 
+em relaçao a toda a quantidade de recursos gastos
+
+Satisfaçao: Parte de conforto e aceitabilidade do produto, medido atraves ou por meio de metodos 
+subjetivos e/ou objetivos.
+
+
+
+De acordo com Preece et al. (2005), é importante que exista um equilíbrio entre as 
+metas de usabilidade e as decorrentes da experiência do usuário.   Tullis et al. (2008) afirmam 
+que a experiência do usuário faz referência 
+a todos aspectos da interação entre um 
+determinado sujeito e um produto, uma aplicação
+ ou sistema. Desse modo as métricas de 
+usabilidade podem revelar algo 
+sobre a experiência do usuário:
+ aspectos relacionados à 
+eficácia (ser capaz de completar uma tarefa), a 
+eficiência (a quantidade de esforço necessário 
+para concluir a tarefa), ou satisfação (o gr
+au em que o usuário es
+tava feliz com a sua 
+experiência ao executar a tarefa)
+
+
