@@ -1,0 +1,8 @@
+Principios de Design
+ - Viabilidade
+ - Feedback
+ - Restrições: física, lógica, culturais
+ - Mapeamento
+ - Consistência: externa e interna
+ 
+
