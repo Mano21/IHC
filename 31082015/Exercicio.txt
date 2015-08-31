@@ -1,0 +1,14 @@
+Exercício
+
+Usar para cada arquivo que achar interessante:
+
+
+
+1) URL:
+  Nome/Título:
+  Descrição:
+  Tipo:
+  Autor(es):
+  Instituição:
+  Idioma:
+  Palavras-Chaves:
