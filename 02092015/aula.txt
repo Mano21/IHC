@@ -1,0 +1,32 @@
+Acessibilidade
+
+Busca oferecer meios para que o usuário acesse o sistem e interaja com ele, sem que a interface imponha obstáculos
+
+pessoas com e sem limitações possuem igual importância, sem limitações na capcidade de movimento, percepção, de cognição ou de aprendizado.
+
+cuidar da acessibilidade permite que mais pessoas usem o sistema(tanto sem quanto com limitações), e não apenas poucas pessoas com 
+caracteísticas específicas
+
+É LEI: será obrigatória a acessibilidade nos portais e sitios eletrônicos da administração pública na rede social de computadores(Irernet),
+para o uso das pessoas portadoras de deficiência visual, garantindo-lhes o pleno acesso ás informações disponíveis.
+
+Comunicabilidade:
+
+=>interface deve comunicar ao usuário á lógica do design:
+ - a quem se destina o sistema,
+ - para que ele serve,
+ - qual a vantagem de utilizá-lo,
+ - como ele funciona
+ - quais são os príncipios gerais de interação com o sistema
+ 
+=> Permite que os usuários tirem mellhor proveito do sistema, por comunicar estratégias
+de uso adequadas a cada situação
+
+=> Conceito proposto pela Engenharia semiótica, uma teoria de IHC(de Souza, 2005)
+
+Importância de IHC
+ - Usuário frente a um novo dispositivo interativo:
+  - final nem tão feliz:
+     - aborrecimentos, frustações.
+     - stress, psicopatologia
+     
