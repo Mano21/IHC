@@ -1,0 +1,108 @@
+URL:http://pdf.blucher.com.br/designproceedings/11ped/01179.pdf
+NOME/TITULO:O Ergodesign e a Engenharia de Usabilidade de interfaces como facilitadores para os usuários na busca de Informações.
+DESCRICAO:Artigo focado na abordagem de estudos relacionando Ergodesign e Engenharia de Usabilidade tendo como foco as Interfaces, demonstrando sua tamanha importância como facilitadores na parte de busca de informações. 
+TIPO:PDF
+AUTOR:Haro Ristow Wippel Schulenberg, João Carlos Vela, Franscisco Antônio Pereira Fialho, Ricardo Triska.
+INSTITUICAO:UFSC
+IDIOMA:Português
+PALAVRAS-CHAVES:Ergodesign, Usabilidade, informação, interação, implementação, Interface, Busca.
+ANO:2014
+
+
+URL:http://www.scielo.br/pdf/si/v17n4/a03v17n4.pdf
+NOME/TITULO:Engenharia de Usabilidade Aplicada no Desenvolvimento de um Sistema Interativo para Soldagem Robotizada.
+DESCRICAO:
+TIPO:PDF
+AUTOR:Marcelo Pompermaier Okuyama, Eugênio Andrés Diaz Merino,Jair Carlos Dutra,Renon Steinbach Carvalho.
+INSTITUICAO:UFSC
+IDIOMA:Português
+PALAVRAS-CHAVES:Ergonomia, interação, sistemas, Interface, Automação da soldagem.
+ANO:2012
+
+
+URL:http://www.univasf.edu.br/~jorge.cavalcanti/Ihm5_Engenharia%20de%20Usabilidade.pdf
+NOME/TITULO:Engenharia de Usabilidade
+DESCRICAO:Material para um estudo mais aprofundado na parte da Engenharia de Usabilidade, com foco em seus conhecimentos de base e as respectivas partes do ciclo da Engenharia de Usabilidade.
+TIPO:PDF
+AUTOR: Professor Jorge Cavalcanti
+INSTITUICAO: Univasf
+IDIOMA: Português
+PALAVRAS-CHAVES: Projeto, Aplicaçoes, Desenvolvimento, ciclos, Interface.
+ANO: SEM DATA
+
+
+URL:http://dsc.inf.furb.br/arquivos/tccs/monografias/2004-1robertoklosowskimachadovf.pdf
+NOME/TITULO:Aplicaçao da Engenharia da Usabilidade para o Desenvolvimento de um Software Multimidia.
+DESCRICAO:Desenvolvimento de um jogo com intuito principal de auxiliar e ajudar no processo de ensino e aprendizagem na area da informatica, de forma a utilizar tecnicas da Engenharia de Usabilidade.
+TIPO: PDF(TCC)
+AUTOR: Roberto Klosowski Machado
+INSTITUICAO:FURB
+IDIOMA:Português
+PALAVRAS-CHAVES:Mouse, Educação, Ergonomia, Conceitos, Pesquisa, Software
+ANO:2004
+
+
+URL:http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1413-99362010000100006
+NOME/TITULO:A Usabilidade nos estudos de uso da informação: em cena usuários e sistemas interativos de informação
+DESCRICAO: Estudo sobre o uso das informações, tendo como partida as referências da Ciência da Informação e da Computação, enfocando na parte de usabilidade, buscando intersecção entre todos estes campos.
+TIPO:Artigo
+AUTOR:Luciana Ferreira da Costa e Francisca Arruda Ramalho
+INSTITUICAO:UFPB
+PALAVRAS-CHAVES:Computação, informação, Interação homem-computador, usabilidade,Estudos de usuários, evolução.
+ANO:2010
+
+
+URL:http://www.idemployee.id.tue.nl/g.w.m.rauterberg/publications/UE_Tutorial.pdf
+NOME/TITULO:Usability Engineering
+DESCRICAO:Material focado em métodos, estudos e problemas envolvem todo o estudo da área de engenharia de Usabilidade
+TIPO:PDF
+AUTOR:Matthias Rauterberg
+INSTITUICAO:Swiss Federal - Institute of Technology Zurich
+IDIOMA:Inglês
+PALAVRAS-CHAVES:Problemas estátisticos, requerimentos, tempo, custo, obstáculos, prototipagem, otimização.
+ANO:1996
+
+
+URL:http://fiz1.fh-potsdam.de/volltext/isi00/06247.pdf
+NOME/TITULO:Usability Engineering Methods for the Web
+DESCRICAO:Estudo breve, mas aprofundado sobre o sistema de Engenharia de Usabilidade focado nos metódos usados na web
+TIPO:Artigo
+AUTOR:Dr. Ilse Harms e Werner Schweibenz
+INSTITUICAO:Universität des Saarlandes 
+IDIOMA:Inglês
+PALAVRAS-CHAVES:Web,estudo da Usabilidade, Heurística, testes, Experiências, metódos, conhecimento.
+ANO:2000
+
+
+URL:http://www.ruirossi.pro.br/fasul/di-ihm/unidade03-ciclo.pdf
+NOME/TITULO:O Ciclo da Engenharia de Usabilidade
+DESCRICAO:Material focado em todo o desempenho do usuário ao se deixa envolver com as tarefas realizadas em seu devido ambiente.
+TIPO:PDF
+AUTOR:Jonatan Carlos Migloreto, Leonel Hendges e Luane Andressa Kappes
+INSTITUICAO:Fasul
+IDIOMA:Portugês
+PALAVRAS-CHAVES:Desenvolvimento, estudo, colaboração, estratégia, qualidade, interface, sistema.
+ANO:Não Informado
+
+
+URL:http://milagres.ce.gov.br/transparencia/arquivos_leismunicipais/ALLEN-tpcsepusp04.pdf
+NOME/TITULO:Engenharia de Usabilidade
+DESCRICAO: Projeto com fim de demonstrar o principal uso da Engenharia de Usabilidade e quais seus focos com base nas linhas de pesquisa.
+TIPO: PDF
+AUTOR:Professora Lucia Filgueiras
+INSTITUICAO:PCS
+IDIOMA:Português
+PALAVRAS-CHAVES:Software,produtos, filosofia, comunicação, pesquisa, interação.
+ANO:2003
+
+
+URL:http://www.ufrgs.br/niee/eventos/CBCOMP/2004/pdf/Concurso/Disserta%E7%F5es/t170100299_3.pdf
+NOME/TITULO:ESTUDO-PILOTO E PROPOSTA DE ESTÁGIO VIRTUAL 
+À DISTÂNCIA EM ENGENHARIA DE USABILIDADE 
+DESCRICAO:Trabalho com intuito de criar um suposto "estágio virtual" a distancia, com finalidade de criar um estagio ficticio dentro de uma empresa tambem ficticia, desta forma motivando os usuarios a buscar capacitação em seu proprio ambiente de trabalho.
+TIPO: PDF(Dissertação)
+AUTOR: Renate de Oliveira Raabe
+INSTITUICAO:UDESC
+IDIOMA:Português
+PALAVRAS-CHAVES:Estagio, Usabilidade, Sócio-Interacionista, Empresas, Metodologia, EAD, IHC, teletrabalho.
+ANO:2003
